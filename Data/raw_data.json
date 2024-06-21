@@ -1,0 +1,3998 @@
+{
+    "0": {
+        "text": "Leon",
+        "font_size": 18.0,
+        "direction": "ltr",
+        "position": {
+            "x": 108.02,
+            "y": 39.0
+        }
+    },
+    "1": {
+        "text": "Gayle",
+        "font_size": 18.0,
+        "direction": "ltr",
+        "position": {
+            "x": 156.098,
+            "y": 39.0
+        }
+    },
+    "2": {
+        "text": "LG",
+        "font_size": 30.024,
+        "direction": "ltr",
+        "position": {
+            "x": 45.6,
+            "y": 44.50127999999995
+        }
+    },
+    "3": {
+        "text": "Email:",
+        "font_size": 9.959999999999923,
+        "direction": "ltr",
+        "position": {
+            "x": 121.1,
+            "y": 65.41176000000007
+        }
+    },
+    "4": {
+        "text": "leongayle018@gmail.com",
+        "font_size": 9.959999999999923,
+        "direction": "ltr",
+        "position": {
+            "x": 151.22,
+            "y": 65.41176000000007
+        }
+    },
+    "5": {
+        "text": "Phone:",
+        "font_size": 9.959999999999923,
+        "direction": "ltr",
+        "position": {
+            "x": 441.07,
+            "y": 65.41176000000007
+        }
+    },
+    "6": {
+        "text": "+16582042023",
+        "font_size": 9.959999999999923,
+        "direction": "ltr",
+        "position": {
+            "x": 473.92804,
+            "y": 65.41176000000007
+        }
+    },
+    "7": {
+        "text": "Education:",
+        "font_size": 12.0,
+        "direction": "ltr",
+        "position": {
+            "x": 32.16,
+            "y": 103.10000000000002
+        }
+    },
+    "8": {
+        "text": "University",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 104.17424000000005
+        }
+    },
+    "9": {
+        "text": "of",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 157.71104,
+            "y": 104.17424000000005
+        }
+    },
+    "10": {
+        "text": "the",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 170.16415999999998,
+            "y": 104.17424000000005
+        }
+    },
+    "11": {
+        "text": "West",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 188.78,
+            "y": 104.17424000000005
+        }
+    },
+    "12": {
+        "text": "Indies,",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 215.75072,
+            "y": 104.17424000000005
+        }
+    },
+    "13": {
+        "text": "Mona",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 250.68128,
+            "y": 104.17424000000005
+        }
+    },
+    "14": {
+        "text": "(2023-26)",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 280.3016,
+            "y": 104.17424000000005
+        }
+    },
+    "15": {
+        "text": "\u2022",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 119.52463999999998
+        }
+    },
+    "16": {
+        "text": "Recipient",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 119.41423999999995
+        }
+    },
+    "17": {
+        "text": "of",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 171.70352000000003,
+            "y": 119.41423999999995
+        }
+    },
+    "18": {
+        "text": "New",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 184.18976,
+            "y": 119.41423999999995
+        }
+    },
+    "19": {
+        "text": "Fortress",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 209.02976,
+            "y": 119.41423999999995
+        }
+    },
+    "20": {
+        "text": "Energy",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 254.29376000000002,
+            "y": 119.41423999999995
+        }
+    },
+    "21": {
+        "text": "Full",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 291.46544,
+            "y": 119.41423999999995
+        }
+    },
+    "22": {
+        "text": "Scholarship",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 313.04864,
+            "y": 119.41423999999995
+        }
+    },
+    "23": {
+        "text": "given",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 374.60767999999996,
+            "y": 119.41423999999995
+        }
+    },
+    "24": {
+        "text": "to",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 403.75327999999996,
+            "y": 119.41423999999995
+        }
+    },
+    "25": {
+        "text": "10",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 416.22847999999993,
+            "y": 119.41423999999995
+        }
+    },
+    "26": {
+        "text": "students",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 428.96863999999994,
+            "y": 119.41423999999995
+        }
+    },
+    "27": {
+        "text": "per",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 474.5417599999999,
+            "y": 119.41423999999995
+        }
+    },
+    "28": {
+        "text": "academic",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 493.98319999999995,
+            "y": 119.41423999999995
+        }
+    },
+    "29": {
+        "text": "year,",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 543.6411200000001,
+            "y": 119.41423999999995
+        }
+    },
+    "30": {
+        "text": "nationally,",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 134.65423999999996
+        }
+    },
+    "31": {
+        "text": "for",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 176.11952,
+            "y": 134.65423999999996
+        }
+    },
+    "32": {
+        "text": "outstanding",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 193.06592,
+            "y": 134.65423999999996
+        }
+    },
+    "33": {
+        "text": "academic",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 253.59823999999998,
+            "y": 134.65423999999996
+        }
+    },
+    "34": {
+        "text": "performance,",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 303.2561599999999,
+            "y": 134.65423999999996
+        }
+    },
+    "35": {
+        "text": "financial",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 371.7703999999999,
+            "y": 134.65423999999996
+        }
+    },
+    "36": {
+        "text": "need",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 416.59279999999995,
+            "y": 134.65423999999996
+        }
+    },
+    "37": {
+        "text": "and",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 443.36479999999995,
+            "y": 134.65423999999996
+        }
+    },
+    "38": {
+        "text": "demonstrable",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 464.2304,
+            "y": 134.65423999999996
+        }
+    },
+    "39": {
+        "text": "community",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 149.77423999999996
+        }
+    },
+    "40": {
+        "text": "involvement",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 180.56864000000002,
+            "y": 149.77423999999996
+        }
+    },
+    "41": {
+        "text": "and",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 242.99983999999998,
+            "y": 149.77423999999996
+        }
+    },
+    "42": {
+        "text": "leadership",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 263.95376,
+            "y": 149.77423999999996
+        }
+    },
+    "43": {
+        "text": "qualities",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 318.89984,
+            "y": 149.77423999999996
+        }
+    },
+    "44": {
+        "text": "\u2022",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 165.24464
+        }
+    },
+    "45": {
+        "text": "Pursuing",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 165.13423999999998
+        }
+    },
+    "46": {
+        "text": "a",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 170.42,
+            "y": 165.13423999999998
+        }
+    },
+    "47": {
+        "text": "BSc.",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 179.15264,
+            "y": 165.13423999999998
+        }
+    },
+    "48": {
+        "text": "in",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 203.63935999999998,
+            "y": 165.13423999999998
+        }
+    },
+    "49": {
+        "text": "Electronics",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 215.36383999999998,
+            "y": 165.13423999999998
+        }
+    },
+    "50": {
+        "text": "Engineering,",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 273.78752,
+            "y": 165.13423999999998
+        }
+    },
+    "51": {
+        "text": "I",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 338.21896,
+            "y": 165.13423999999998
+        }
+    },
+    "52": {
+        "text": "am",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 344.1916,
+            "y": 165.13423999999998
+        }
+    },
+    "53": {
+        "text": "currently",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 362.34136,
+            "y": 165.13423999999998
+        }
+    },
+    "54": {
+        "text": "a",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 410.18775999999997,
+            "y": 165.13423999999998
+        }
+    },
+    "55": {
+        "text": "member",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 418.96456,
+            "y": 165.13423999999998
+        }
+    },
+    "56": {
+        "text": "of",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 463.33432,
+            "y": 165.13423999999998
+        }
+    },
+    "57": {
+        "text": "Semester",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 475.72119999999995,
+            "y": 165.13423999999998
+        }
+    },
+    "58": {
+        "text": "1",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 526.58248,
+            "y": 165.13423999999998
+        }
+    },
+    "59": {
+        "text": "(2023)",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 533.1844,
+            "y": 165.13423999999998
+        }
+    },
+    "60": {
+        "text": "Dean\u2019s",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 180.25423999999998
+        }
+    },
+    "61": {
+        "text": "List;",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 158.4224,
+            "y": 180.25423999999998
+        }
+    },
+    "62": {
+        "text": "1st",
+        "font_size": 11.37936000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 182.3,
+            "y": 179.91487999999993
+        }
+    },
+    "63": {
+        "text": "year",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 194.3,
+            "y": 180.25423999999998
+        }
+    },
+    "64": {
+        "text": "included",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 219.01856,
+            "y": 180.25423999999998
+        }
+    },
+    "65": {
+        "text": "completing",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 263.27792,
+            "y": 180.25423999999998
+        }
+    },
+    "66": {
+        "text": "13",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 320.58656,
+            "y": 180.25423999999998
+        }
+    },
+    "67": {
+        "text": "rigorous",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 333.06176,
+            "y": 180.25423999999998
+        }
+    },
+    "68": {
+        "text": "courses",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 377.7185599999999,
+            "y": 180.25423999999998
+        }
+    },
+    "69": {
+        "text": "over",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 420.18943999999993,
+            "y": 180.25423999999998
+        }
+    },
+    "70": {
+        "text": "the",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 444.79759999999993,
+            "y": 180.25423999999998
+        }
+    },
+    "71": {
+        "text": "maximum",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 463.3668799999999,
+            "y": 180.25423999999998
+        }
+    },
+    "72": {
+        "text": "credit",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 514.98992,
+            "y": 180.25423999999998
+        }
+    },
+    "73": {
+        "text": "which",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 195.49424
+        }
+    },
+    "74": {
+        "text": "covered",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 155.26496,
+            "y": 195.49424
+        }
+    },
+    "75": {
+        "text": "C,",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 197.25008000000003,
+            "y": 195.49424
+        }
+    },
+    "76": {
+        "text": "C++,",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 209.12912,
+            "y": 195.49424
+        }
+    },
+    "77": {
+        "text": "Arduino,",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 232.98656,
+            "y": 195.49424
+        }
+    },
+    "78": {
+        "text": "Java",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 276.90368,
+            "y": 195.49424
+        }
+    },
+    "79": {
+        "text": "(OOP),",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 302.43919999999997,
+            "y": 195.49424
+        }
+    },
+    "80": {
+        "text": "Android,",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 336.19,
+            "y": 195.49424
+        }
+    },
+    "81": {
+        "text": "MySQL,",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 380.11,
+            "y": 195.49424
+        }
+    },
+    "82": {
+        "text": "MATLAB,",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 419.64424,
+            "y": 195.49424
+        }
+    },
+    "83": {
+        "text": "CAD,",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 466.76896,
+            "y": 195.49424
+        }
+    },
+    "84": {
+        "text": "Calculus",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 492.6688,
+            "y": 195.49424
+        }
+    },
+    "85": {
+        "text": "(I,",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 537.85552,
+            "y": 195.49424
+        }
+    },
+    "86": {
+        "text": "II",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 550.18,
+            "y": 195.49424
+        }
+    },
+    "87": {
+        "text": "and",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 210.61424
+        }
+    },
+    "88": {
+        "text": "III),",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 144.21392,
+            "y": 210.61424
+        }
+    },
+    "89": {
+        "text": "Electronics,",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 162.4784,
+            "y": 210.61424
+        }
+    },
+    "90": {
+        "text": "and",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 223.28672,
+            "y": 210.61424
+        }
+    },
+    "91": {
+        "text": "other",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 244.06399999999996,
+            "y": 210.61424
+        }
+    },
+    "92": {
+        "text": "tools",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 273.32,
+            "y": 210.61424
+        }
+    },
+    "93": {
+        "text": "for",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 300.8096,
+            "y": 210.61424
+        }
+    },
+    "94": {
+        "text": "engineering",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 317.70079999999996,
+            "y": 210.61424
+        }
+    },
+    "95": {
+        "text": "applications.",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 378.87343999999996,
+            "y": 210.61424
+        }
+    },
+    "96": {
+        "text": "Jamaica",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 225.85424
+        }
+    },
+    "97": {
+        "text": "College",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 149.04464000000002,
+            "y": 225.85424
+        }
+    },
+    "98": {
+        "text": "Sixth",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 188.86592000000002,
+            "y": 225.85424
+        }
+    },
+    "99": {
+        "text": "Form",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 216.77504,
+            "y": 225.85424
+        }
+    },
+    "100": {
+        "text": "(2021-23)",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 245.94272,
+            "y": 225.85424
+        }
+    },
+    "101": {
+        "text": "\u2022",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 241.20464000000004
+        }
+    },
+    "102": {
+        "text": "Passed",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 241.09424
+        }
+    },
+    "103": {
+        "text": "all",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 161.9552,
+            "y": 241.09424
+        }
+    },
+    "104": {
+        "text": "10",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 177.05792,
+            "y": 241.09424
+        }
+    },
+    "105": {
+        "text": "Cape",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 189.79808,
+            "y": 241.09424
+        }
+    },
+    "106": {
+        "text": "Units,",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 217.24352,
+            "y": 241.09424
+        }
+    },
+    "107": {
+        "text": "more",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 248.07823999999997,
+            "y": 241.09424
+        }
+    },
+    "108": {
+        "text": "rigorous",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 276.99199999999996,
+            "y": 241.09424
+        }
+    },
+    "109": {
+        "text": "than",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 321.6377599999999,
+            "y": 241.09424
+        }
+    },
+    "110": {
+        "text": "required.",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 346.3231999999999,
+            "y": 241.09424
+        }
+    },
+    "111": {
+        "text": "Perfect",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 392.791995808,
+            "y": 241.09424
+        }
+    },
+    "112": {
+        "text": "score",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 430.957275808,
+            "y": 241.09424
+        }
+    },
+    "113": {
+        "text": "(Distinction):",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 461.701995808,
+            "y": 241.09424
+        }
+    },
+    "114": {
+        "text": "Computer",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 256.36424
+        }
+    },
+    "115": {
+        "text": "Science",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 174.61808000000002,
+            "y": 256.36424
+        }
+    },
+    "116": {
+        "text": "(CS)",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 216.11744,
+            "y": 256.36424
+        }
+    },
+    "117": {
+        "text": "Unit",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 239.76511999999997,
+            "y": 256.36424
+        }
+    },
+    "118": {
+        "text": "1&2",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 262.43023999999997,
+            "y": 256.36424
+        }
+    },
+    "119": {
+        "text": "and",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 281.96000000000004,
+            "y": 256.36424
+        }
+    },
+    "120": {
+        "text": "Physics",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 302.80352,
+            "y": 256.36424
+        }
+    },
+    "121": {
+        "text": "Unit",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 343.59632,
+            "y": 256.36424
+        }
+    },
+    "122": {
+        "text": "1&2.",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 366.15104,
+            "y": 256.36424
+        }
+    },
+    "123": {
+        "text": "\u2022",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 271.71464000000003
+        }
+    },
+    "124": {
+        "text": "National",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 122.501995808,
+            "y": 271.60424
+        }
+    },
+    "125": {
+        "text": "Merit",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 166.54055580800002,
+            "y": 271.60424
+        }
+    },
+    "126": {
+        "text": "List",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 195.078955808,
+            "y": 271.60424
+        }
+    },
+    "127": {
+        "text": "(2023):",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 216.441355808,
+            "y": 271.60424
+        }
+    },
+    "128": {
+        "text": "23rd",
+        "font_size": 11.379360000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 253.37,
+            "y": 271.26487999999995
+        }
+    },
+    "129": {
+        "text": "CS",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 274.13,
+            "y": 271.60424
+        }
+    },
+    "130": {
+        "text": "Unit",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 290.414,
+            "y": 271.60424
+        }
+    },
+    "131": {
+        "text": "2,",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 313.00184,
+            "y": 271.60424
+        }
+    },
+    "132": {
+        "text": "26th",
+        "font_size": 11.379360000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 324.11912,
+            "y": 271.26487999999995
+        }
+    },
+    "133": {
+        "text": "Integrated",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 343.99,
+            "y": 271.60424
+        }
+    },
+    "134": {
+        "text": "Mathematics,",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 397.34632,
+            "y": 271.60424
+        }
+    },
+    "135": {
+        "text": "and",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 465.70599999999996,
+            "y": 271.60424
+        }
+    },
+    "136": {
+        "text": "Physics",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 486.45016,
+            "y": 271.60424
+        }
+    },
+    "137": {
+        "text": "Unit",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 527.2429599999999,
+            "y": 271.60424
+        }
+    },
+    "138": {
+        "text": "2.",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 549.8308,
+            "y": 271.60424
+        }
+    },
+    "139": {
+        "text": "Jamaica",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 286.84424
+        }
+    },
+    "140": {
+        "text": "College",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 149.04464000000002,
+            "y": 286.84424
+        }
+    },
+    "141": {
+        "text": "(2016-21)",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 188.95424,
+            "y": 286.84424
+        }
+    },
+    "142": {
+        "text": "\u2022",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 302.19464000000005
+        }
+    },
+    "143": {
+        "text": "GPA:",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 302.08424
+        }
+    },
+    "144": {
+        "text": "3.81.",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 149.24816,
+            "y": 302.08424
+        }
+    },
+    "145": {
+        "text": "Passed",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 172.89584,
+            "y": 302.08424
+        }
+    },
+    "146": {
+        "text": "9",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 211.46959999999999,
+            "y": 302.08424
+        }
+    },
+    "147": {
+        "text": "CSEC",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 219.99248,
+            "y": 302.08424
+        }
+    },
+    "148": {
+        "text": "Subjects.",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 249.65695999999997,
+            "y": 302.08424
+        }
+    },
+    "149": {
+        "text": "Perfect",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 297.011995808,
+            "y": 302.08424
+        }
+    },
+    "150": {
+        "text": "score:",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 335.144155808,
+            "y": 302.08424
+        }
+    },
+    "151": {
+        "text": "Mathematics,",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 368.83,
+            "y": 302.08424
+        }
+    },
+    "152": {
+        "text": "Chemistry,",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 437.21175999999997,
+            "y": 302.08424
+        }
+    },
+    "153": {
+        "text": "Physics,",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 492.29031999999995,
+            "y": 302.08424
+        }
+    },
+    "154": {
+        "text": "IT.",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 535.5671199999999,
+            "y": 302.08424
+        }
+    },
+    "155": {
+        "text": "\u2022",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 317.55464
+        }
+    },
+    "156": {
+        "text": "National",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 122.501995808,
+            "y": 317.44424
+        }
+    },
+    "157": {
+        "text": "Merit",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 166.54055580800002,
+            "y": 317.44424
+        }
+    },
+    "158": {
+        "text": "List",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 195.078955808,
+            "y": 317.44424
+        }
+    },
+    "159": {
+        "text": "(2021):",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 216.441355808,
+            "y": 317.44424
+        }
+    },
+    "160": {
+        "text": "36th",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 251.21,
+            "y": 317.44424
+        }
+    },
+    "161": {
+        "text": "in",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 275.40968000000004,
+            "y": 317.44424
+        }
+    },
+    "162": {
+        "text": "Industrial",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 287.16728,
+            "y": 317.44424
+        }
+    },
+    "163": {
+        "text": "Technology:",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 337.17848000000004,
+            "y": 317.44424
+        }
+    },
+    "164": {
+        "text": "Electrical",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 396.6068,
+            "y": 317.44424
+        }
+    },
+    "165": {
+        "text": "Engineering.",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 446.14328,
+            "y": 317.44424
+        }
+    },
+    "166": {
+        "text": "\u2022",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 332.91464
+        }
+    },
+    "167": {
+        "text": "Clubs",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 332.80424
+        }
+    },
+    "168": {
+        "text": "and",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 154.08368000000002,
+            "y": 332.80424
+        }
+    },
+    "169": {
+        "text": "Societies:",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 174.82784,
+            "y": 332.80424
+        }
+    },
+    "170": {
+        "text": "Prefect",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 225.21439999999996,
+            "y": 332.80424
+        }
+    },
+    "171": {
+        "text": "Body,",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 263.49008,
+            "y": 332.80424
+        }
+    },
+    "172": {
+        "text": "Jamaica",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 292.6136,
+            "y": 332.80424
+        }
+    },
+    "173": {
+        "text": "College",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 336.32096,
+            "y": 332.80424
+        }
+    },
+    "174": {
+        "text": "Chess",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 376.13120000000004,
+            "y": 332.80424
+        }
+    },
+    "175": {
+        "text": "Team,",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 409.46096,
+            "y": 332.80424
+        }
+    },
+    "176": {
+        "text": "STEM",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 440.69312,
+            "y": 332.80424
+        }
+    },
+    "177": {
+        "text": "Club,",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 471.11936000000003,
+            "y": 332.80424
+        }
+    },
+    "178": {
+        "text": "Robotics",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 498.36608,
+            "y": 332.80424
+        }
+    },
+    "179": {
+        "text": "Club",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 543.81776,
+            "y": 332.80424
+        }
+    },
+    "180": {
+        "text": "Experience:",
+        "font_size": 12.0,
+        "direction": "ltr",
+        "position": {
+            "x": 23.52,
+            "y": 362.57
+        }
+    },
+    "181": {
+        "text": "Computing",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 363.16424
+        }
+    },
+    "182": {
+        "text": "Society",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 160.89056,
+            "y": 363.16424
+        }
+    },
+    "183": {
+        "text": "(2023-Present)",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 199.64096,
+            "y": 363.16424
+        }
+    },
+    "184": {
+        "text": "\u2022",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 378.51464000000004
+        }
+    },
+    "185": {
+        "text": "Trained",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 378.40424
+        }
+    },
+    "186": {
+        "text": "for",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 162.81632000000002,
+            "y": 378.40424
+        }
+    },
+    "187": {
+        "text": "employment;",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 179.97248000000002,
+            "y": 378.40424
+        }
+    },
+    "188": {
+        "text": "upload",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 246.20144,
+            "y": 378.40424
+        }
+    },
+    "189": {
+        "text": "appointed",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 282.2912,
+            "y": 378.40424
+        }
+    },
+    "190": {
+        "text": "and",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 333.29599999999994,
+            "y": 378.40424
+        }
+    },
+    "191": {
+        "text": "personal",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 354.1615999999999,
+            "y": 378.40424
+        }
+    },
+    "192": {
+        "text": "projects",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 400.57375999999994,
+            "y": 378.40424
+        }
+    },
+    "193": {
+        "text": "using",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 443.95,
+            "y": 378.40424
+        }
+    },
+    "194": {
+        "text": "GitHub",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 473.5,
+            "y": 378.40424
+        }
+    },
+    "195": {
+        "text": "\u2022",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 391.83464000000004
+        }
+    },
+    "196": {
+        "text": "In",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 391.72424
+        }
+    },
+    "197": {
+        "text": "the",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 135.3488,
+            "y": 391.72424
+        }
+    },
+    "198": {
+        "text": "Web",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 153.9512,
+            "y": 391.72424
+        }
+    },
+    "199": {
+        "text": "Dev",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 178.19504,
+            "y": 391.72424
+        }
+    },
+    "200": {
+        "text": "Special",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 199.70096,
+            "y": 391.72424
+        }
+    },
+    "201": {
+        "text": "Interest",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 238.65007999999997,
+            "y": 391.72424
+        }
+    },
+    "202": {
+        "text": "Group",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 280.0832,
+            "y": 391.72424
+        }
+    },
+    "203": {
+        "text": "(SIG);",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 312.9272,
+            "y": 391.72424
+        }
+    },
+    "204": {
+        "text": "later,",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 342.79040000000003,
+            "y": 391.72424
+        }
+    },
+    "205": {
+        "text": "AI/ML",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 371.36192,
+            "y": 391.72424
+        }
+    },
+    "206": {
+        "text": "SIG",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 403.47727999999995,
+            "y": 391.72424
+        }
+    },
+    "207": {
+        "text": "and",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 423.37136,
+            "y": 391.72424
+        }
+    },
+    "208": {
+        "text": "UI/UX",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 444.21488,
+            "y": 391.72424
+        }
+    },
+    "209": {
+        "text": "SIG.",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 474.97231999999997,
+            "y": 391.72424
+        }
+    },
+    "210": {
+        "text": "\u2022",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 405.15464000000003
+        }
+    },
+    "211": {
+        "text": "Created",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 405.04424
+        }
+    },
+    "212": {
+        "text": "arcade",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 164.9,
+            "y": 405.04424
+        }
+    },
+    "213": {
+        "text": "games",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 201.37616,
+            "y": 405.04424
+        }
+    },
+    "214": {
+        "text": "such",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 237.17,
+            "y": 405.04424
+        }
+    },
+    "215": {
+        "text": "as",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 263.54456,
+            "y": 405.04424
+        }
+    },
+    "216": {
+        "text": "Snake",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 278.05111999999997,
+            "y": 405.04424
+        }
+    },
+    "217": {
+        "text": "Game",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 311.51336,
+            "y": 405.04424
+        }
+    },
+    "218": {
+        "text": "and",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 342.71239999999995,
+            "y": 405.04424
+        }
+    },
+    "219": {
+        "text": "Flappy",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 363.48967999999996,
+            "y": 405.04424
+        }
+    },
+    "220": {
+        "text": "Bird",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 398.61895999999996,
+            "y": 405.04424
+        }
+    },
+    "221": {
+        "text": "to",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 422.11,
+            "y": 405.04424
+        }
+    },
+    "222": {
+        "text": "play",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 434.71,
+            "y": 405.04424
+        }
+    },
+    "223": {
+        "text": "or",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 457.71736,
+            "y": 405.04424
+        }
+    },
+    "224": {
+        "text": "watch",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 471.418,
+            "y": 405.04424
+        }
+    },
+    "225": {
+        "text": "win",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 503.94183999999996,
+            "y": 405.04424
+        }
+    },
+    "226": {
+        "text": "using",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 524.3106399999999,
+            "y": 405.04424
+        }
+    },
+    "227": {
+        "text": "AI",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 553.8316,
+            "y": 405.04424
+        }
+    },
+    "228": {
+        "text": "algorithms",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 420.30424
+        }
+    },
+    "229": {
+        "text": "(Hamiltonian",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 179.58608,
+            "y": 420.30424
+        }
+    },
+    "230": {
+        "text": "Cycle,",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 245.25199999999998,
+            "y": 420.30424
+        }
+    },
+    "231": {
+        "text": "A*",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 277.03616,
+            "y": 420.30424
+        }
+    },
+    "232": {
+        "text": "Search)",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 291.87392,
+            "y": 420.30424
+        }
+    },
+    "233": {
+        "text": "using",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 333.38431999999995,
+            "y": 420.30424
+        }
+    },
+    "234": {
+        "text": "JS,",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 362.81695999999994,
+            "y": 420.30424
+        }
+    },
+    "235": {
+        "text": "HTML",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 380.3263999999999,
+            "y": 420.30424
+        }
+    },
+    "236": {
+        "text": "and",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 411.58063999999996,
+            "y": 420.30424
+        }
+    },
+    "237": {
+        "text": "CSS.",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 432.42416,
+            "y": 420.30424
+        }
+    },
+    "238": {
+        "text": "FIRST",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 450.66424
+        }
+    },
+    "239": {
+        "text": "Tech",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 136.5584,
+            "y": 450.66424
+        }
+    },
+    "240": {
+        "text": "Challenge",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 161.76272,
+            "y": 450.66424
+        }
+    },
+    "241": {
+        "text": "|",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 213.78319999999997,
+            "y": 450.66424
+        }
+    },
+    "242": {
+        "text": "Robotics",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 219.89,
+            "y": 450.66424
+        }
+    },
+    "243": {
+        "text": "Club",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 265.23751999999996,
+            "y": 450.66424
+        }
+    },
+    "244": {
+        "text": "(2021-2023)",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 290.33,
+            "y": 450.66424
+        }
+    },
+    "245": {
+        "text": "Positions:",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 465.78424
+        }
+    },
+    "246": {
+        "text": "Chief",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 155.78,
+            "y": 465.78424
+        }
+    },
+    "247": {
+        "text": "of",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 183.85472,
+            "y": 465.78424
+        }
+    },
+    "248": {
+        "text": "Engineering,",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 196.34096,
+            "y": 465.78424
+        }
+    },
+    "249": {
+        "text": "Lead",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 260.62687999999997,
+            "y": 465.78424
+        }
+    },
+    "250": {
+        "text": "Engineer,",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 287.57552,
+            "y": 465.78424
+        }
+    },
+    "251": {
+        "text": "Captain",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 336.30607999999995,
+            "y": 465.78424
+        }
+    },
+    "252": {
+        "text": "6899",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 376.23776,
+            "y": 465.78424
+        }
+    },
+    "253": {
+        "text": "(2022),",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 402.55,
+            "y": 465.78424
+        }
+    },
+    "254": {
+        "text": "Vice-Captain",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 438.50728000000004,
+            "y": 465.78424
+        }
+    },
+    "255": {
+        "text": "3981",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 504.22479999999996,
+            "y": 465.78424
+        }
+    },
+    "256": {
+        "text": "(2023)",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 528.5348799999999,
+            "y": 465.78424
+        }
+    },
+    "257": {
+        "text": "\u2022",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 481.25464000000005
+        }
+    },
+    "258": {
+        "text": "Recruited",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 481.14424
+        }
+    },
+    "259": {
+        "text": "after",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 173.85632,
+            "y": 481.14424
+        }
+    },
+    "260": {
+        "text": "national",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 200.24192,
+            "y": 481.14424
+        }
+    },
+    "261": {
+        "text": "placement",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 242.62448,
+            "y": 481.14424
+        }
+    },
+    "262": {
+        "text": "to",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 297.06271999999996,
+            "y": 481.14424
+        }
+    },
+    "263": {
+        "text": "teach",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 309.68143999999995,
+            "y": 481.14424
+        }
+    },
+    "264": {
+        "text": "over",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 339.56672,
+            "y": 481.14424
+        }
+    },
+    "265": {
+        "text": "15",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 364.52815999999996,
+            "y": 481.14424
+        }
+    },
+    "266": {
+        "text": "under-classmates",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 377.35,
+            "y": 481.14424
+        }
+    },
+    "267": {
+        "text": "and",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 470.6596,
+            "y": 481.14424
+        }
+    },
+    "268": {
+        "text": "new",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 491.50311999999997,
+            "y": 481.14424
+        }
+    },
+    "269": {
+        "text": "members",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 514.9410399999999,
+            "y": 481.14424
+        }
+    },
+    "270": {
+        "text": "engineering",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 494.34424
+        }
+    },
+    "271": {
+        "text": "concepts,",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 184.39952,
+            "y": 494.34424
+        }
+    },
+    "272": {
+        "text": "programming",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 234.212,
+            "y": 494.34424
+        }
+    },
+    "273": {
+        "text": "control",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 303.9296,
+            "y": 494.34424
+        }
+    },
+    "274": {
+        "text": "systems",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 341.97344,
+            "y": 494.34424
+        }
+    },
+    "275": {
+        "text": "and",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 386.33216,
+            "y": 494.34424
+        }
+    },
+    "276": {
+        "text": "innovative",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 407.17568,
+            "y": 494.34424
+        }
+    },
+    "277": {
+        "text": "designs",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 460.21184,
+            "y": 494.34424
+        }
+    },
+    "278": {
+        "text": "for",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 501.23648,
+            "y": 494.34424
+        }
+    },
+    "279": {
+        "text": "robots.",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 518.3705600000001,
+            "y": 494.34424
+        }
+    },
+    "280": {
+        "text": "\u2022",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 507.77464000000003
+        }
+    },
+    "281": {
+        "text": "Co-operated",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 507.66424
+        }
+    },
+    "282": {
+        "text": "with",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 188.3,
+            "y": 507.66424
+        }
+    },
+    "283": {
+        "text": "programmers",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 212.1464,
+            "y": 507.66424
+        }
+    },
+    "284": {
+        "text": "and",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 283.2992,
+            "y": 507.66424
+        }
+    },
+    "285": {
+        "text": "CAD",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 304.16479999999996,
+            "y": 507.66424
+        }
+    },
+    "286": {
+        "text": "developers",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 327.94496,
+            "y": 507.66424
+        }
+    },
+    "287": {
+        "text": "to",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 385.28672,
+            "y": 507.66424
+        }
+    },
+    "288": {
+        "text": "build",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 397.87232,
+            "y": 507.66424
+        }
+    },
+    "289": {
+        "text": "and",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 424.60016,
+            "y": 507.66424
+        }
+    },
+    "290": {
+        "text": "tweak",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 445.46576000000005,
+            "y": 507.66424
+        }
+    },
+    "291": {
+        "text": "the",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 477.98960000000017,
+            "y": 507.66424
+        }
+    },
+    "292": {
+        "text": "robot",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 496.47056000000015,
+            "y": 507.66424
+        }
+    },
+    "293": {
+        "text": "design.",
+        "font_size": 11.04000000000002,
+        "direction": "ltr",
+        "position": {
+            "x": 525.6272000000001,
+            "y": 507.66424
+        }
+    },
+    "294": {
+        "text": "\u2022",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 523.0146400000001
+        }
+    },
+    "295": {
+        "text": "The",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 522.9042400000001
+        }
+    },
+    "296": {
+        "text": "team",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 143.5184,
+            "y": 522.9042400000001
+        }
+    },
+    "297": {
+        "text": "won",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 171.37232,
+            "y": 522.9042400000001
+        }
+    },
+    "298": {
+        "text": "the",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 194.86544,
+            "y": 522.9042400000001
+        }
+    },
+    "299": {
+        "text": "Design",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 213.46784000000002,
+            "y": 522.9042400000001
+        }
+    },
+    "300": {
+        "text": "and",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 249.95504,
+            "y": 522.9042400000001
+        }
+    },
+    "301": {
+        "text": "Inspire",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 270.91999999999996,
+            "y": 522.9042400000001
+        }
+    },
+    "302": {
+        "text": "Award,",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 308.00335999999993,
+            "y": 522.9042400000001
+        }
+    },
+    "303": {
+        "text": "and",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 345.18607999999995,
+            "y": 522.9042400000001
+        }
+    },
+    "304": {
+        "text": "Captain",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 366.0516799999999,
+            "y": 522.9042400000001
+        }
+    },
+    "305": {
+        "text": "Alliance",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 406.0275199999999,
+            "y": 522.9042400000001
+        }
+    },
+    "306": {
+        "text": "(2023),",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 448.56464,
+            "y": 522.9042400000001
+        }
+    },
+    "307": {
+        "text": "which",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 484.7096000000001,
+            "y": 522.9042400000001
+        }
+    },
+    "308": {
+        "text": "qualified",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 516.7145600000002,
+            "y": 522.9042400000001
+        }
+    },
+    "309": {
+        "text": "us",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 538.14424
+        }
+    },
+    "310": {
+        "text": "to",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 138.13088,
+            "y": 538.14424
+        }
+    },
+    "311": {
+        "text": "represent",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 150.71648,
+            "y": 538.14424
+        }
+    },
+    "312": {
+        "text": "the",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 201.95312,
+            "y": 538.14424
+        }
+    },
+    "313": {
+        "text": "Caribbean",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 220.4672,
+            "y": 538.14424
+        }
+    },
+    "314": {
+        "text": "in",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 273.35983999999996,
+            "y": 538.14424
+        }
+    },
+    "315": {
+        "text": "the",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 285.29,
+            "y": 538.14424
+        }
+    },
+    "316": {
+        "text": "Houston,",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 303.89,
+            "y": 538.14424
+        }
+    },
+    "317": {
+        "text": "Texas",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 350.18072,
+            "y": 538.14424
+        }
+    },
+    "318": {
+        "text": "Competition,",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 380.77256,
+            "y": 538.14424
+        }
+    },
+    "319": {
+        "text": "where",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 445.21304,
+            "y": 538.14424
+        }
+    },
+    "320": {
+        "text": "we",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 479.0616799999999,
+            "y": 538.14424
+        }
+    },
+    "321": {
+        "text": "became",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 496.31719999999996,
+            "y": 538.14424
+        }
+    },
+    "322": {
+        "text": "the",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 537.8607199999999,
+            "y": 538.14424
+        }
+    },
+    "323": {
+        "text": "first",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 553.38424
+        }
+    },
+    "324": {
+        "text": "Caribbean",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 146.65376,
+            "y": 553.38424
+        }
+    },
+    "325": {
+        "text": "Team",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 199.66784,
+            "y": 553.38424
+        }
+    },
+    "326": {
+        "text": "to",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 228.49328,
+            "y": 553.38424
+        }
+    },
+    "327": {
+        "text": "win",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 240.85808,
+            "y": 553.38424
+        }
+    },
+    "328": {
+        "text": "the",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 261.22688,
+            "y": 553.38424
+        }
+    },
+    "329": {
+        "text": "Motivate",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 279.82928,
+            "y": 553.38424
+        }
+    },
+    "330": {
+        "text": "Award,",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 324.5744,
+            "y": 553.38424
+        }
+    },
+    "331": {
+        "text": "bronze",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 361.80127999999996,
+            "y": 553.38424
+        }
+    },
+    "332": {
+        "text": "on",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 398.85152,
+            "y": 553.38424
+        }
+    },
+    "333": {
+        "text": "the",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 413.97632,
+            "y": 553.38424
+        }
+    },
+    "334": {
+        "text": "international",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 432.57872,
+            "y": 553.38424
+        }
+    },
+    "335": {
+        "text": "stage.",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 498.07904,
+            "y": 553.38424
+        }
+    },
+    "336": {
+        "text": "Hope",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 576.54424
+        }
+    },
+    "337": {
+        "text": "Valley",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 133.55552,
+            "y": 576.54424
+        }
+    },
+    "338": {
+        "text": "Experimental",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 165.96895999999998,
+            "y": 576.54424
+        }
+    },
+    "339": {
+        "text": "School",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 234.59359999999998,
+            "y": 576.54424
+        }
+    },
+    "340": {
+        "text": "(2023)",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 271.1580799999999,
+            "y": 576.54424
+        }
+    },
+    "341": {
+        "text": "\u2022",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 591.92464
+        }
+    },
+    "342": {
+        "text": "Introduced",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 591.81424
+        }
+    },
+    "343": {
+        "text": "1st",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 179.06,
+            "y": 591.81424
+        }
+    },
+    "344": {
+        "text": "to",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 194.97968,
+            "y": 591.81424
+        }
+    },
+    "345": {
+        "text": "6th-grade",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 207.65,
+            "y": 591.81424
+        }
+    },
+    "346": {
+        "text": "students",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 259.49,
+            "y": 591.81424
+        }
+    },
+    "347": {
+        "text": "to",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 305.09,
+            "y": 591.81424
+        }
+    },
+    "348": {
+        "text": "robotics,",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 317.69,
+            "y": 591.81424
+        }
+    },
+    "349": {
+        "text": "covering",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 363.15175999999997,
+            "y": 591.81424
+        }
+    },
+    "350": {
+        "text": "components,",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 408.58135999999996,
+            "y": 591.81424
+        }
+    },
+    "351": {
+        "text": "operations,",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 474.33559999999994,
+            "y": 591.81424
+        }
+    },
+    "352": {
+        "text": "Scratch",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 605.01424
+        }
+    },
+    "353": {
+        "text": "and",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 164.3,
+            "y": 605.01424
+        }
+    },
+    "354": {
+        "text": "Lego",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 185.15456,
+            "y": 605.01424
+        }
+    },
+    "355": {
+        "text": "along",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 212.33,
+            "y": 605.01424
+        }
+    },
+    "356": {
+        "text": "with",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 242.30360000000002,
+            "y": 605.01424
+        }
+    },
+    "357": {
+        "text": "my",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 266.27144,
+            "y": 605.01424
+        }
+    },
+    "358": {
+        "text": "colleagues",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 284.01272,
+            "y": 605.01424
+        }
+    },
+    "359": {
+        "text": "from",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 340.12904,
+            "y": 605.01424
+        }
+    },
+    "360": {
+        "text": "First",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 366.64712,
+            "y": 605.01424
+        }
+    },
+    "361": {
+        "text": "Tech",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 392.59112,
+            "y": 605.01424
+        }
+    },
+    "362": {
+        "text": "Challenge.",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 418.3916,
+            "y": 605.01424
+        }
+    },
+    "363": {
+        "text": "FIRST",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 626.25424
+        }
+    },
+    "364": {
+        "text": "Global",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 136.58,
+            "y": 626.25424
+        }
+    },
+    "365": {
+        "text": "Challenge",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 170.9,
+            "y": 626.25424
+        }
+    },
+    "366": {
+        "text": "|",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 222.89,
+            "y": 626.25424
+        }
+    },
+    "367": {
+        "text": "Jamaica",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 228.89,
+            "y": 626.25424
+        }
+    },
+    "368": {
+        "text": "National",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 272.64152,
+            "y": 626.25424
+        }
+    },
+    "369": {
+        "text": "Robotics",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 316.68008,
+            "y": 626.25424
+        }
+    },
+    "370": {
+        "text": "Team",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 362.14279999999997,
+            "y": 626.25424
+        }
+    },
+    "371": {
+        "text": "(2022)",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 390.96824000000004,
+            "y": 626.25424
+        }
+    },
+    "372": {
+        "text": "\u2022",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 641.60464
+        }
+    },
+    "373": {
+        "text": "Gleaned",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 641.49424
+        }
+    },
+    "374": {
+        "text": "nationwide",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 166.34,
+            "y": 641.49424
+        }
+    },
+    "375": {
+        "text": "to",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 222.77,
+            "y": 641.49424
+        }
+    },
+    "376": {
+        "text": "be",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 235.22312000000002,
+            "y": 641.49424
+        }
+    },
+    "377": {
+        "text": "one",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 249.98360000000002,
+            "y": 641.49424
+        }
+    },
+    "378": {
+        "text": "of",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 270.99272,
+            "y": 641.49424
+        }
+    },
+    "379": {
+        "text": "26",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 283.47896000000003,
+            "y": 641.49424
+        }
+    },
+    "380": {
+        "text": "students",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 297.42248,
+            "y": 641.49424
+        }
+    },
+    "381": {
+        "text": "to",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 343.15,
+            "y": 641.49424
+        }
+    },
+    "382": {
+        "text": "serve",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 355.60312,
+            "y": 641.49424
+        }
+    },
+    "383": {
+        "text": "as",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 386.0956,
+            "y": 641.49424
+        }
+    },
+    "384": {
+        "text": "an",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 400.73463999999996,
+            "y": 641.49424
+        }
+    },
+    "385": {
+        "text": "engineer",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 415.70487999999995,
+            "y": 641.49424
+        }
+    },
+    "386": {
+        "text": "on",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 461.89624,
+            "y": 641.49424
+        }
+    },
+    "387": {
+        "text": "the",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 477.02103999999997,
+            "y": 641.49424
+        }
+    },
+    "388": {
+        "text": "National",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 495.50199999999995,
+            "y": 641.49424
+        }
+    },
+    "389": {
+        "text": "Team.",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 539.6509599999999,
+            "y": 641.49424
+        }
+    },
+    "390": {
+        "text": "\u2022",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 105.26,
+            "y": 656.96464
+        }
+    },
+    "391": {
+        "text": "Won",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 656.85424
+        }
+    },
+    "392": {
+        "text": "Most",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 147.22784000000001,
+            "y": 656.85424
+        }
+    },
+    "393": {
+        "text": "Prestigious",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 174.12128,
+            "y": 656.85424
+        }
+    },
+    "394": {
+        "text": "Award:",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 232.54496,
+            "y": 656.85424
+        }
+    },
+    "395": {
+        "text": "bronze",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 269.83808,
+            "y": 656.85424
+        }
+    },
+    "396": {
+        "text": "Albert",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 306.67856,
+            "y": 656.85424
+        }
+    },
+    "397": {
+        "text": "Einstein",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 340.12976,
+            "y": 656.85424
+        }
+    },
+    "398": {
+        "text": "Award",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 382.57856,
+            "y": 656.85424
+        }
+    },
+    "399": {
+        "text": "on",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 417.47600000000006,
+            "y": 656.85424
+        }
+    },
+    "400": {
+        "text": "the",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 432.60080000000005,
+            "y": 656.85424
+        }
+    },
+    "401": {
+        "text": "global",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 451.11488,
+            "y": 656.85424
+        }
+    },
+    "402": {
+        "text": "stage",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 484.19072000000006,
+            "y": 656.85424
+        }
+    },
+    "403": {
+        "text": "among",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 514.1643200000001,
+            "y": 656.85424
+        }
+    },
+    "404": {
+        "text": "3",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 550.4196800000001,
+            "y": 656.85424
+        }
+    },
+    "405": {
+        "text": "other",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 123.26,
+            "y": 672.09424
+        }
+    },
+    "406": {
+        "text": "awards",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 152.51600000000002,
+            "y": 672.09424
+        }
+    },
+    "407": {
+        "text": "including",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 191.88464,
+            "y": 672.09424
+        }
+    },
+    "408": {
+        "text": "Al-Khwarizmi",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 239.21,
+            "y": 672.09424
+        }
+    },
+    "409": {
+        "text": "Award",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 310.3508,
+            "y": 672.09424
+        }
+    },
+    "410": {
+        "text": "for",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 345.10472,
+            "y": 672.09424
+        }
+    },
+    "411": {
+        "text": "Outstanding",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 361.92967999999996,
+            "y": 672.09424
+        }
+    },
+    "412": {
+        "text": "Supporter.",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 423.8199199999999,
+            "y": 672.09424
+        }
+    },
+    "413": {
+        "text": "Skills:",
+        "font_size": 12.0,
+        "direction": "ltr",
+        "position": {
+            "x": 57.12,
+            "y": 702.336
+        }
+    },
+    "414": {
+        "text": "Computer",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 124.1,
+            "y": 702.45024
+        }
+    },
+    "415": {
+        "text": "Literate",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 175.45808,
+            "y": 702.45024
+        }
+    },
+    "416": {
+        "text": "|",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 217.08991999999998,
+            "y": 702.45024
+        }
+    },
+    "417": {
+        "text": "Website",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 222.97423999999998,
+            "y": 702.45024
+        }
+    },
+    "418": {
+        "text": "Development",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 264.60608,
+            "y": 702.45024
+        }
+    },
+    "419": {
+        "text": "|",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 332.01632,
+            "y": 702.45024
+        }
+    },
+    "420": {
+        "text": "C",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 337.90064,
+            "y": 702.45024
+        }
+    },
+    "421": {
+        "text": "Language",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 347.63792,
+            "y": 702.45024
+        }
+    },
+    "422": {
+        "text": "|",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 398.56543999999997,
+            "y": 702.45024
+        }
+    },
+    "423": {
+        "text": "C++",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 404.5712,
+            "y": 702.45024
+        }
+    },
+    "424": {
+        "text": "|",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 425.92256,
+            "y": 702.45024
+        }
+    },
+    "425": {
+        "text": "Java",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 431.92832,
+            "y": 702.45024
+        }
+    },
+    "426": {
+        "text": "|",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 457.48591999999996,
+            "y": 702.45024
+        }
+    },
+    "427": {
+        "text": "JavaScript",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 463.49168,
+            "y": 702.45024
+        }
+    },
+    "428": {
+        "text": "|",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 518.47088,
+            "y": 702.45024
+        }
+    },
+    "429": {
+        "text": "CSS5",
+        "font_size": 11.039999999999964,
+        "direction": "ltr",
+        "position": {
+            "x": 524.32208,
+            "y": 702.45024
+        }
+    },
+    "430": {
+        "text": "Cascading",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 160.22,
+            "y": 715.6502399999999
+        }
+    },
+    "431": {
+        "text": "Style",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 213.77,
+            "y": 715.6502399999999
+        }
+    },
+    "432": {
+        "text": "Sheets",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 241.43624,
+            "y": 715.6502399999999
+        }
+    },
+    "433": {
+        "text": "(CSS)",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 278.39816,
+            "y": 715.6502399999999
+        }
+    },
+    "434": {
+        "text": "|",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 308.81,
+            "y": 715.6502399999999
+        }
+    },
+    "435": {
+        "text": "SQL",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 314.69432,
+            "y": 715.6502399999999
+        }
+    },
+    "436": {
+        "text": "|",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 337.81208,
+            "y": 715.6502399999999
+        }
+    },
+    "437": {
+        "text": "Android",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 343.75,
+            "y": 715.6502399999999
+        }
+    },
+    "438": {
+        "text": "|",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 385.19416,
+            "y": 715.6502399999999
+        }
+    },
+    "439": {
+        "text": "HTML",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 391.15,
+            "y": 715.6502399999999
+        }
+    },
+    "440": {
+        "text": "|",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 422.3932,
+            "y": 715.6502399999999
+        }
+    },
+    "441": {
+        "text": "Robotics",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 428.27752,
+            "y": 715.6502399999999
+        }
+    },
+    "442": {
+        "text": "|",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 473.76231999999993,
+            "y": 715.6502399999999
+        }
+    },
+    "443": {
+        "text": "Leader",
+        "font_size": 11.040000000000077,
+        "direction": "ltr",
+        "position": {
+            "x": 479.64663999999993,
+            "y": 715.6502399999999
+        }
+    }
+}

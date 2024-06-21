@@ -1,0 +1,4 @@
+colorama
+google-generativeai
+pdfplumber
+python-dotenv
